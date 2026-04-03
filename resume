@@ -1,0 +1,4 @@
+#!/bin/sh
+# Resumes the Copilot session for this repo on the repo owner's machine.
+# The session UUID is local to that machine and will not work on other hosts.
+exec gh copilot --resume=ceced8a4-f5c7-46e6-b138-fbe34d2524fa

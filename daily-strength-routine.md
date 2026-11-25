@@ -11,23 +11,24 @@ the end of the day.
 
 ## Weekly schedule
 
-Day 0 is the weekly hard ride, which replaces that day's cardio.
+The weekly hard ride is Thursday night and replaces that day's cardio.
 
 | Day | Lifting | Cardio |
 |-----|---------|--------|
-| 0 | Rest | Hard ride |
-| 1 | Legs | Very easy |
-| 2 | Push | Easy |
-| 3 | Pull | Easy |
-| 4 | Legs | Easy |
-| 5 | Push | Easy |
-| 6 | Pull, kept comfortable | Very easy |
+| Monday | Legs | Easy |
+| Tuesday | Push | Easy |
+| Wednesday | Pull, kept comfortable | Very easy |
+| Thursday | Rest | Hard ride (night) |
+| Friday | Legs | Very easy |
+| Saturday | Push | Easy |
+| Sunday | Pull | Easy |
 
 - Lift early, ideally at least 3 hours before cardio
-- Day 4 is the latest leg day before the hard ride
-- Day 6: stay at least 2 reps in reserve (RIR), keep leg drive and heavy
+- Monday is the latest leg day before the hard ride
+- Wednesday: stay at least 2 reps in reserve (RIR), keep leg drive and heavy
   bracing out of rows, and go easier if back or grip is tired
 - Don't make up missed sessions or move leg day closer to the ride
+- Friday follows a night ride: skip legs if they aren't recovered
 
 RIR is how many more good reps you could have done.
 
@@ -51,7 +52,7 @@ RIR is how many more good reps you could have done.
 | Reverse pec deck | 2 × 12–20 | 1 | Cable reverse fly |
 | Biceps curl machine | 3 × 8–15 | 1 | Cable curl |
 
-Use the Day 6 limits above when they're more conservative than this table.
+Use the Wednesday limits above when they're more conservative than this table.
 
 ## Legs
 
@@ -106,7 +107,7 @@ Rides replace that day's cardio. When in doubt, favor the ride.
   affect the next hard ride. If legs feel good, do up to about half the sets
 - **Mountain biking:** on a moderate or hard ride day, skip pull. On an easy
   ride day, ride first, then pull, or skip it if tired
-- **If the weekly hard ride suffers:** reduce Day 4 leg sets, or skip them.
+- **If the weekly hard ride suffers:** reduce Monday leg sets, or skip them.
   Also consider sleep, food, heat, and other riding
 
 ## How to progress

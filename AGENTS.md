@@ -1,49 +1,60 @@
 # Agent Instructions
 
+## Purpose
+
+This repo organizes my health and fitness: nutrition, training, cycling, and
+related notes. It is part of a broader personal knowledge system using Git and
+Obsidian.
+
 ## General
 
-- Automatically update this AGENTS.md file when new preferences, conventions, or context are established for this repo
-- Committing directly to main is okay in this repo
+- Update this file when new preferences, conventions, or context are
+  established for this repo
+- Committing directly to `main` is okay
+
+## Training Preferences
+
+- Put joint safety ahead of progression: use conservative leg exercises,
+  effort, and progression, and don't add new leg movements without flagging
+  their knee demands
+- Primary strength training goal: hypertrophy, to counter sarcopenia and build
+  an attractive physique, over pure cycling power
+- Functional strength is also a priority
+- Prefer machines over free weights
+- Hard bike rides take priority over leg day: when they compete, reduce or
+  skip leg day to favor the ride
+
+## Privacy
+
+**This repo is public** (`rwxrob/notes-health`). Anything pushed can be copied
+and stays in Git history even if deleted later.
+
+- General notes and reference material are fine to add
+- Ask before adding personal health data, such as lab results, diagnoses,
+  medications, injuries, body measurements, or personal logs
+- Never add other people's health information, medical record or insurance
+  numbers, or other identifying documents
+
+## Notes
+
+- `notes-*` repo: freeform notes, which may cover more than one idea
+- Each note starts with a level 1 heading, and the file name is its slug
+  (`# My Great Note` → `my-great-note.md`)
+- Use Markdown that renders in both Obsidian and GitHub
+- Keep notes short and scannable, using tables for comparisons and reference
+  numbers
+
+## Health Information
+
+- Keep my own experience distinct from general or researched claims
+- Cite sources for researched health claims, and never invent numbers
+- Mark estimates as approximate (`~`) and include units
+- State the assumptions behind calculated values, such as gear ratio and wheel
+  size
+- Point out anything that looks inaccurate or unsafe instead of silently
+  changing it
 
 ## Commits
 
-- Always use conventional commits (e.g. `feat:`, `fix:`, `docs:`, `chore:`)
-- Never add `Co-authored-by: Copilot` or any Copilot trailer to commits
-- Never add any AI co-authorship trailers to commit messages
-
-## Purpose
-
-This repo is a public knowledge base / zettelkasten. It is part of a broader system for personal knowledge management using Git + Copilot + Obsidian.
-
-## Structure Conventions
-
-- Atomic notes in the zettelkasten/keg style
-- File names must be the slug version of the first level 1 markdown header (e.g. `# My Great Note` → `my-great-note.md`)
-- Multiple knowledge repos are intentional — different repos for different content types (e.g. `zet`, `keg`, `recipes`, `bookmarks`)
-- `FOLLOWING.md` — list of actual git submodule subscriptions (other people's public knowledge repos)
-- `DISCOVER.md` — discovery prompts/search terms to find new repos to potentially subscribe to
-
-## Repo Naming Conventions
-
-Repo name prefix signals the format/style of the knowledge base:
-
-- `zet-*` — strict atomic zettelkasten (one idea per file)
-- `keg-*` — keg format (structured, KEG spec)
-- `kb-*` — knowledge base (reference/topic pages, multi-idea files)
-- `notes-*` — freeform general notes
-- `dg-*` — digital garden (public, evolving)
-
-The prefix encodes **format**, GitHub topic tags encode **domain** (e.g. `health`, `tech`, `cooking`).
-
-
-
-- Use GitHub topic tags for discoverability: `zettelkasten`, `pkm`, `keg`, `public-notes`, `second-brain`, `digital-garden`, `knowledge-base`
-- Repo name conventions to search: `zet`, `keg`, `notes`, `knowledge`, `thoughts`
-- `DISCOVER.md` contains prompts for Copilot to run discovery searches
-- `FOLLOWING.md` contains committed subscriptions with notes on why each is followed
-
-## Tooling
-
-- Obsidian points at this repo locally for graph view, backlinks, canvas
-- Copilot used for search, synthesis, linking, and writing assistance across notes
-- Git provides version control and sync
+- Use conventional commits (`feat:`, `fix:`, `docs:`, `chore:`)
+- Never add AI co-authorship trailers or other AI attribution
